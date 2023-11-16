@@ -6,6 +6,7 @@ import LOGO from "../../assets/svg/logo_whatsapp.svg";
 import TouchableScreen from "../../components/TouchableScreen";
 
 import styles from "./styles";
+import TextLogo from "../../assets/base/textLogo";
 
 const LoadingPage = ({ navigation }: { navigation: any }) => {
   const [fontsLoaded] = useFonts({
@@ -31,12 +32,12 @@ const LoadingPage = ({ navigation }: { navigation: any }) => {
   return (
     <View style={styles.root} onLayout={onLayoutRootView}>
       <View style={styles.bgStyleView}>
-        <BackgroundImg />
       </View>
       <View style={styles.contentViewStyle}></View>
       <LOGO width="70" height="70" />
       <View style={styles.touchableScreenContainer}>
         <TouchableScreen navigation={navigation} />
+        <TextLogo />
       </View>
     </View>
   );

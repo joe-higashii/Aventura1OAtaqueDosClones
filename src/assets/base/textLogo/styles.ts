@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
     root: {
       display: "flex",
       alignItems: "center",
-      paddingTop: 10,
+      paddingTop: 70,
       gap: 3,
     },
     textStyle1: {
@@ -13,9 +13,9 @@ const styles = StyleSheet.create({
       fontWeight: "400",
     },
     textStyle2: {
-      color: "#000",
+      color: "#00A884",
       fontSize: 15,
-      fontWeight: "400",
+      fontWeight: "600",
       letterSpacing: 2.25,
     },
   });

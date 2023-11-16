@@ -5,3 +5,16 @@
 # Serratec-Projeto-React-Native-p1
 
 ## Repositorio para execução do projeto da disciplina de Desenvolvimento Mobile
+
+
+# Telas do clone:
+
+![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/971d48e4-0f81-4451-ad0e-690698737ca3)
+
+__________________________________________________
+
+![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/fa573295-0b36-47ae-b42c-1a41459656af)
+
+__________________________________________________
+
+![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/2b0d635b-40bc-4c30-a687-72ca76f4628f)
