@@ -13,8 +13,13 @@
 
 __________________________________________________
 
+![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/2b0d635b-40bc-4c30-a687-72ca76f4628f)
+
+__________________________________________________
+
+
 ![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/fa573295-0b36-47ae-b42c-1a41459656af)
 
 __________________________________________________
 
-![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/2b0d635b-40bc-4c30-a687-72ca76f4628f)
+![image](https://github.com/joe-higashii/Aventura1OAtaqueDosClones/assets/129689531/faa9f88a-801d-4476-9076-0773383f9cc1)
